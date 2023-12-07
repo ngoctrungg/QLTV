@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CNNhaXuatBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CNTacGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMuonTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCapnhatsach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmThongTinNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLySach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TimKiemDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TimKiemSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TKDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TKSach1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
